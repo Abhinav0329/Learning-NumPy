@@ -20,10 +20,7 @@ This repository is dedicated to mastering **NumPy**, the core library for numeri
 
 ### 📈 Learning Roadmap
 - [x] Environment setup & GitHub integration
-- [x] 1D & 2D Array creation
-- [ ] Array math (Universal Functions)
-- [ ] Slicing, Indexing, and Masking
-- [ ] Broadcasting and Reshaping
+- [ ] Numpy Array
 
 ---
 
