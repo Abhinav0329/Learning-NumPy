@@ -34,6 +34,6 @@ print(new_c)
 """
 ValueError->It is an error that occurs when a function gets an argument that is the right type but an invalid value
 Given code gives error:
-error = np.array(['a',2,6],dtype='i')
-print(error)
+-->error = np.array(['a',2,6],dtype='i')
+-->print(error)
 """
